@@ -228,7 +228,8 @@ form{
 }
 /* get in touch styling*/
 .get-in-touch{
-    padding: 7em 7em 0em 7em;
+    padding: 3em 8em 0em 8em;
+    max-height: 35em;
 }
 .get-in-touch h1{
     font-size: 6em;
