@@ -345,6 +345,7 @@ form{
     display: flex;
     color: white;
 }
+/*about me page styling*/
 .about-intro-1{
     background-image: url("../assets/chantalgrad1.jpg");
     background-color: #4CB5AE;
@@ -371,7 +372,7 @@ form{
     font-size: 5em;
     font-family:'Licorice', cursive;
     margin-top: 1.5em;
-    margin-left: 5.5em;
+    margin-left: 8.5em;
 }
 .about-intro-3{
     background-image: url("../assets/chantalgrad3.jpg");
@@ -385,7 +386,7 @@ form{
     font-size: 5em;
     font-family:'Licorice', cursive;
     margin-top: 1.5em;
-    margin-left: 10.5em;
+    margin-left: 15.5em;
 }
 .about-intro-4{
     background-image: url("../assets/chantalgrad4.jpg");
@@ -399,9 +400,9 @@ form{
     font-size: 5em;
     font-family:'Licorice', cursive;
     margin-top: 1.5em;
-    margin-left: 14.5em;
+    margin-left: 22.5em;
 }
-/*about me page styling*/
+
 .about-me-letter-head{
     padding-top: 5em;
 }
