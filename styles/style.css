@@ -166,6 +166,9 @@ h2,h3,p{
 .line-height{
     line-height: 40px;
 }
+.info-padding{
+    padding: 20px 0px;
+}
 /*
 .cat-box h2{
     font-size: 3em;
@@ -313,6 +316,9 @@ form{
 .initial-img{
     max-width: 75%;
 }
+.par-max{
+    max-width: 75%;
+}
 /*/////////////////////////////*/
 /*MyFlorida Style Guide page*/
 .style-guide-intro{
@@ -372,7 +378,7 @@ form{
     font-size: 5em;
     font-family:'Licorice', cursive;
     margin-top: 1.5em;
-    margin-left: 7.5em;
+    margin-left: 6.5em;
 }
 .about-intro-3{
     background-image: url("../assets/chantalgrad3.jpg");
