@@ -169,6 +169,9 @@ h2,h3,p{
 .info-padding{
     padding: 20px 0px;
 }
+.max-height{
+    max-height: 40em;
+}
 /*
 .cat-box h2{
     font-size: 3em;
